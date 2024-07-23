@@ -27,3 +27,5 @@ Este projeto apresenta um layout de cartões animados que descrevem diferentes s
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SouzVitor/Web-Card-HTML-CSS-e-link-para-Whatsapp
+
+   Contato Para mais informações, entre em contato pelo WhatsApp: [Saiba Mais](https://wa.me/559288046059)
